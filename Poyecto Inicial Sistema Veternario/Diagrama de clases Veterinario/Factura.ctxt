@@ -1,0 +1,12 @@
+#BlueJ class context
+#Sat Sep 19 01:38:21 CST 2026
+comment0.target=Factura
+comment1.target=Factura()
+comment2.params=numero fecha costoConsulta cita
+comment2.target=Factura(java.lang.String, java.lang.String, double, Cita)
+comment3.target=java.lang.String getNumero()
+comment4.target=java.lang.String getFecha()
+comment5.target=Cita getCita()
+comment6.target=double calcularTotal()
+comment7.target=java.lang.String toString()
+numComments=8

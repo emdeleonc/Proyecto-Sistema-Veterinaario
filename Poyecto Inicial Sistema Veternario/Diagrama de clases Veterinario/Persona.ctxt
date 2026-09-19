@@ -1,0 +1,27 @@
+#BlueJ class context
+#Sat Sep 19 01:38:21 CST 2026
+comment0.target=Persona
+comment1.target=Persona()
+comment10.target=java.lang.String getNombreCompleto()
+comment11.target=java.lang.String getTelefono()
+comment12.params=telefono
+comment12.target=void setTelefono(java.lang.String)
+comment13.target=java.lang.String getEmail()
+comment14.params=email
+comment14.target=void setEmail(java.lang.String)
+comment15.target=void mostrarInformacion()
+comment16.target=java.lang.String toString()
+comment2.params=id nombre apellido
+comment2.target=Persona(java.lang.String, java.lang.String, java.lang.String)
+comment3.params=id nombre apellido telefono email
+comment3.target=Persona(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)
+comment4.target=java.lang.String getId()
+comment5.params=id
+comment5.target=void setId(java.lang.String)
+comment6.target=java.lang.String getNombre()
+comment7.params=nombre
+comment7.target=void setNombre(java.lang.String)
+comment8.target=java.lang.String getApellido()
+comment9.params=apellido
+comment9.target=void setApellido(java.lang.String)
+numComments=17

@@ -1,0 +1,14 @@
+c:\Users\emily\Documents\Semestre 4\Programación II\Poyecto Inicial Sistema Veternario\SistemaVeterinario\bin\Debug\net6.0\SistemaVeterinario.exe
+c:\Users\emily\Documents\Semestre 4\Programación II\Poyecto Inicial Sistema Veternario\SistemaVeterinario\bin\Debug\net6.0\SistemaVeterinario.deps.json
+c:\Users\emily\Documents\Semestre 4\Programación II\Poyecto Inicial Sistema Veternario\SistemaVeterinario\bin\Debug\net6.0\SistemaVeterinario.runtimeconfig.json
+c:\Users\emily\Documents\Semestre 4\Programación II\Poyecto Inicial Sistema Veternario\SistemaVeterinario\bin\Debug\net6.0\SistemaVeterinario.dll
+c:\Users\emily\Documents\Semestre 4\Programación II\Poyecto Inicial Sistema Veternario\SistemaVeterinario\bin\Debug\net6.0\SistemaVeterinario.pdb
+c:\Users\emily\Documents\Semestre 4\Programación II\Poyecto Inicial Sistema Veternario\SistemaVeterinario\obj\Debug\net6.0\SistemaVeterinario.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\emily\Documents\Semestre 4\Programación II\Poyecto Inicial Sistema Veternario\SistemaVeterinario\obj\Debug\net6.0\SistemaVeterinario.AssemblyInfoInputs.cache
+c:\Users\emily\Documents\Semestre 4\Programación II\Poyecto Inicial Sistema Veternario\SistemaVeterinario\obj\Debug\net6.0\SistemaVeterinario.AssemblyInfo.cs
+c:\Users\emily\Documents\Semestre 4\Programación II\Poyecto Inicial Sistema Veternario\SistemaVeterinario\obj\Debug\net6.0\SistemaVeterinario.csproj.CoreCompileInputs.cache
+c:\Users\emily\Documents\Semestre 4\Programación II\Poyecto Inicial Sistema Veternario\SistemaVeterinario\obj\Debug\net6.0\SistemaVeterinario.dll
+c:\Users\emily\Documents\Semestre 4\Programación II\Poyecto Inicial Sistema Veternario\SistemaVeterinario\obj\Debug\net6.0\refint\SistemaVeterinario.dll
+c:\Users\emily\Documents\Semestre 4\Programación II\Poyecto Inicial Sistema Veternario\SistemaVeterinario\obj\Debug\net6.0\SistemaVeterinario.pdb
+c:\Users\emily\Documents\Semestre 4\Programación II\Poyecto Inicial Sistema Veternario\SistemaVeterinario\obj\Debug\net6.0\SistemaVeterinario.genruntimeconfig.cache
+c:\Users\emily\Documents\Semestre 4\Programación II\Poyecto Inicial Sistema Veternario\SistemaVeterinario\obj\Debug\net6.0\ref\SistemaVeterinario.dll

@@ -1,0 +1,26 @@
+#BlueJ class context
+#Sat Sep 19 01:38:21 CST 2026
+comment0.target=Insumo
+comment1.target=Insumo()
+comment10.params=stock
+comment10.target=void setStock(int)
+comment11.params=cantidad
+comment11.target=boolean hayStock(int)
+comment12.params=cantidad
+comment12.target=boolean descontarStock(int)
+comment13.params=cantidad
+comment13.target=void reabastecer(int)
+comment14.target=java.lang.String toString()
+comment2.params=codigo nombre precioUnitario stock
+comment2.target=Insumo(java.lang.String, java.lang.String, double, int)
+comment3.target=java.lang.String getCodigo()
+comment4.params=codigo
+comment4.target=void setCodigo(java.lang.String)
+comment5.target=java.lang.String getNombre()
+comment6.params=nombre
+comment6.target=void setNombre(java.lang.String)
+comment7.target=double getPrecioUnitario()
+comment8.params=precioUnitario
+comment8.target=void setPrecioUnitario(double)
+comment9.target=int getStock()
+numComments=15

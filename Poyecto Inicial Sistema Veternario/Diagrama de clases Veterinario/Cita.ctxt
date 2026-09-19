@@ -1,0 +1,35 @@
+#BlueJ class context
+#Sat Sep 19 01:38:21 CST 2026
+comment0.target=Cita
+comment1.target=Cita()
+comment10.target=java.lang.String getEstado()
+comment11.params=estado
+comment11.target=void setEstado(java.lang.String)
+comment12.target=java.lang.String getDiagnostico()
+comment13.target=java.lang.String getTratamiento()
+comment14.target=Mascota getMascota()
+comment15.target=Veterinario getVeterinario()
+comment16.target=Insumo getInsumoUtilizado()
+comment17.target=int getCantidadInsumo()
+comment18.params=nuevaFecha nuevaHora
+comment18.target=void reprogramar(java.lang.String, java.lang.String)
+comment19.target=void cancelar()
+comment2.params=id fecha hora motivo mascota veterinario
+comment2.target=Cita(java.lang.String, java.lang.String, java.lang.String, java.lang.String, Mascota, Veterinario)
+comment20.params=diagnostico tratamiento vacuna
+comment20.target=void atender(java.lang.String, java.lang.String, java.lang.String)
+comment21.params=insumo cantidad
+comment21.target=boolean usarInsumo(Insumo, int)
+comment22.target=void finalizar()
+comment23.target=java.lang.String toString()
+comment3.target=java.lang.String getId()
+comment4.params=id
+comment4.target=void setId(java.lang.String)
+comment5.target=java.lang.String getFecha()
+comment6.params=fecha
+comment6.target=void setFecha(java.lang.String)
+comment7.target=java.lang.String getHora()
+comment8.params=hora
+comment8.target=void setHora(java.lang.String)
+comment9.target=java.lang.String getMotivo()
+numComments=24

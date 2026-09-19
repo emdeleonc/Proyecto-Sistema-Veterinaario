@@ -1,0 +1,30 @@
+#BlueJ class context
+#Sat Sep 19 01:38:21 CST 2026
+comment0.target=Mascota
+comment1.target=Mascota()
+comment10.params=raza
+comment10.target=void setRaza(java.lang.String)
+comment11.target=int getEdad()
+comment12.params=edad
+comment12.target=void setEdad(int)
+comment13.target=double getPeso()
+comment14.params=peso
+comment14.target=void setPeso(double)
+comment15.target=Propietario getPropietario()
+comment16.params=propietario
+comment16.target=void setPropietario(Propietario)
+comment17.target=boolean tienePropietarioValido()
+comment18.target=java.lang.String toString()
+comment2.params=id nombre especie raza edad peso propietario
+comment2.target=Mascota(java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, double, Propietario)
+comment3.target=java.lang.String getId()
+comment4.params=id
+comment4.target=void setId(java.lang.String)
+comment5.target=java.lang.String getNombre()
+comment6.params=nombre
+comment6.target=void setNombre(java.lang.String)
+comment7.target=java.lang.String getEspecie()
+comment8.params=especie
+comment8.target=void setEspecie(java.lang.String)
+comment9.target=java.lang.String getRaza()
+numComments=19
